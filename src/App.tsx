@@ -96,7 +96,7 @@ function App() {
                       </li>
                       <li className="list-row">
                         <div className="text-4xl font-thin opacity-30 tabular-nums">
-                          03
+                          04
                         </div>
                         <div>
                           <div>Freelance UI Designer</div>
