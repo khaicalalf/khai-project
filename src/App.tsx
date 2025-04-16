@@ -372,7 +372,7 @@ function App() {
                       </div>
                       <a
                         target="_blank"
-                        href="http://siaporabain.live/"
+                        href="https://github.com/khaicalalf"
                         className="btn btn-square btn-ghost"
                       >
                         <svg
