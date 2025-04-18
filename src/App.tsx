@@ -194,7 +194,7 @@ function App() {
                         Knowledge Base
                       </li>
                       <li className="list-row">
-                        <div className="text-xs uppercase font-semibold opacity-60">
+                        <div className="text-xs font-semibold opacity-60">
                           PHP && Laravel && Filament && Javascript && Typescript
                           && React && Tailwindcss && API
                         </div>
@@ -223,7 +223,7 @@ function App() {
                           src={todo}
                         />
                       </div>
-                      <div className="flex flex-col justify-center items-start text-sm uppercase md:text-xl">
+                      <div className="flex flex-col justify-center items-start text-sm md:text-xl">
                         <div>Simple To Do To Day</div>
                         <div className="text-xs font-semibold opacity-60">
                           React && Vite && Tailwindcss + DaisyUI && Netlify
@@ -258,7 +258,7 @@ function App() {
                           src={sos}
                         />
                       </div>
-                      <div className="flex flex-col justify-center items-start text-sm uppercase md:text-xl">
+                      <div className="flex flex-col justify-center items-start text-sm md:text-xl">
                         <div>Save ur OShi!!!</div>
                         <div className="text-xs font-semibold opacity-60">
                           React && Vite && Tailwindcss + DaisyUI && Supabase &&
@@ -294,7 +294,7 @@ function App() {
                           src={ngekost}
                         />
                       </div>
-                      <div className="flex flex-col justify-center items-start text-sm uppercase md:text-xl">
+                      <div className="flex flex-col justify-center items-start text-sm md:text-xl">
                         <div>Web Manajemen dan booking kost: Ngekost</div>
                         <div className="text-xs font-semibold opacity-60">
                           Laravel && Filament && Javascript && Tailwindcss &&
@@ -330,7 +330,7 @@ function App() {
                           src={siapo}
                         />
                       </div>
-                      <div className="flex flex-col justify-center items-start text-sm uppercase md:text-xl">
+                      <div className="flex flex-col justify-center items-start text-sm md:text-xl">
                         <div>Pendaftaran Online : SIAPO RABAIN</div>
                         <div className="text-xs uppercase font-semibold opacity-60">
                           PHP && Javascript
@@ -364,7 +364,7 @@ function App() {
                           src={limagirary}
                         />
                       </div>
-                      <div className="flex flex-col justify-center items-start text-sm uppercase md:text-xl">
+                      <div className="flex flex-col justify-center items-start text-sm md:text-xl">
                         <div>Limagirary</div>
                         <div className="text-xs font-semibold opacity-60">
                           Coming Soon | Coming Soon | Coming Soon
