@@ -332,7 +332,7 @@ function App() {
                       </div>
                       <div className="flex flex-col justify-center items-start text-sm md:text-xl">
                         <div>Pendaftaran Online : SIAPO RABAIN</div>
-                        <div className="text-xs uppercase font-semibold opacity-60">
+                        <div className="text-xs font-semibold opacity-60">
                           PHP && Javascript
                         </div>
                       </div>
