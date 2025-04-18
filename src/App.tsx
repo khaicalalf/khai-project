@@ -225,7 +225,7 @@ function App() {
                       </div>
                       <div className="flex flex-col justify-center items-start text-sm uppercase md:text-xl">
                         <div>Simple To Do To Day</div>
-                        <div className="text-xs uppercase font-semibold opacity-60">
+                        <div className="text-xs font-semibold opacity-60">
                           React && Vite && Tailwindcss + DaisyUI && Netlify
                         </div>
                       </div>
@@ -260,7 +260,7 @@ function App() {
                       </div>
                       <div className="flex flex-col justify-center items-start text-sm uppercase md:text-xl">
                         <div>Save ur OShi!!!</div>
-                        <div className="text-xs uppercase font-semibold opacity-60">
+                        <div className="text-xs font-semibold opacity-60">
                           React && Vite && Tailwindcss + DaisyUI && Supabase &&
                           Netlify
                         </div>
@@ -295,8 +295,8 @@ function App() {
                         />
                       </div>
                       <div className="flex flex-col justify-center items-start text-sm uppercase md:text-xl">
-                        <div>Web Manajemen dan booking kost: Ngekosts</div>
-                        <div className="text-xs uppercase font-semibold opacity-60">
+                        <div>Web Manajemen dan booking kost: Ngekost</div>
+                        <div className="text-xs font-semibold opacity-60">
                           Laravel && Filament && Javascript && Tailwindcss &&
                           Midtrans API
                         </div>
@@ -366,7 +366,7 @@ function App() {
                       </div>
                       <div className="flex flex-col justify-center items-start text-sm uppercase md:text-xl">
                         <div>Limagirary</div>
-                        <div className="text-xs uppercase font-semibold opacity-60">
+                        <div className="text-xs font-semibold opacity-60">
                           Coming Soon | Coming Soon | Coming Soon
                         </div>
                       </div>
