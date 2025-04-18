@@ -13,13 +13,13 @@ function App() {
       <div className="bg-base-100">
         <div className="mockup-window min-h-screen bg-base-200">
           <div className="bg-base-300 w-full flex-col flex flex-grow justify-center items-center-safe p-10">
-            <div className="w-full bg-base-200 flex flex-col justify-center p-2 rounded-l z-2 md:w-3/4 rounded-3xl">
+            <div className="w-full flex flex-col justify-center p-2 rounded-l z-2 md:w-3/4 rounded-3xl">
               <SpotlightCard
                 className="custom-spotlight-card rounded-xl mb-2 mt-2 md:mb-4"
                 spotlightColor="rgba(255, 255, 255, 0.25)"
               >
                 {/* Hi */}
-                <div className="w-full flex flex-row text-3xl font-bold justify-center items-center">
+                <div className="w-full bg-base-100 rounded-box flex flex-row text-3xl font-bold justify-center items-center">
                   <p className="hi">👋</p>
                   <p>Hi Comrades</p>
                 </div>
@@ -32,7 +32,7 @@ function App() {
                     spotlightColor="rgba(255, 255, 255, 0.25)"
                   >
                     {/* About */}
-                    <div className="hero bg-base-200 h-full ">
+                    <div className="hero bg-base-100 h-full rounded-box ">
                       <div className="hero-content flex-col h-full ">
                         <h1 className="text-3xl font-bold">About</h1>
                         <p className="py-6">
