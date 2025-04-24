@@ -271,7 +271,7 @@ function App() {
                       </div>
                       <a
                         target="_blank"
-                        href="https://save-ur-oshiii.netlify.app/"
+                        href="https://sipovi.online"
                         className="btn btn-square btn-ghost"
                       >
                         <svg
