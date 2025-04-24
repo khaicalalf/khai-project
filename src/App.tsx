@@ -6,6 +6,7 @@ import todo from "./assets/works/to-do-today.png";
 import siapo from "./assets/works/siaporabain.png";
 import ngekost from "./assets/works/ngekost.png";
 import limagirary from "./assets/works/logo.png";
+import vaksin from "./assets/works/vaksin.jpg";
 
 function App() {
   return (
@@ -19,7 +20,7 @@ function App() {
                 spotlightColor="rgba(255, 255, 255, 0.25)"
               >
                 {/* Hi */}
-                <div className="w-full bg-base-100 rounded-box flex flex-row text-3xl font-bold justify-center items-center">
+                <div className="w-full bg-base-100 rounded-box flex flex-row text-3xl font-bold justify-center items-center p-4">
                   <p className="hi">👋</p>
                   <p>Hi Comrades</p>
                 </div>
@@ -232,6 +233,45 @@ function App() {
                       <a
                         target="_blank"
                         href="https://whats-to-do-today.netlify.app/"
+                        className="btn btn-square btn-ghost"
+                      >
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          className="h-5 w-5"
+                          fill="none"
+                          viewBox="0 0 24 24"
+                          stroke="currentColor"
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth="2"
+                            d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"
+                          />
+                        </svg>
+                      </a>
+                    </li>
+
+                    <li className="list-row justify-center items-center">
+                      <div>
+                        <img
+                          className="size-10 rounded-box md:size-25"
+                          src={vaksin}
+                        />
+                      </div>
+                      <div className="flex flex-col justify-center items-start text-sm md:text-xl">
+                        <div>
+                          SiPOVI:Sistem Pendaftaran Online Vaksinasi
+                          Internasional
+                        </div>
+                        <div className="text-xs font-semibold opacity-60">
+                          React && Vite && Tailwindcss + DaisyUI && Supabase +
+                          PostgreSQL && Netlify
+                        </div>
+                      </div>
+                      <a
+                        target="_blank"
+                        href="https://save-ur-oshiii.netlify.app/"
                         className="btn btn-square btn-ghost"
                       >
                         <svg
