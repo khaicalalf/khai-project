@@ -373,12 +373,13 @@ function App() {
                       <div className="flex flex-col justify-center items-start text-sm md:text-xl">
                         <div>Pendaftaran Online : SIAPO RABAIN</div>
                         <div className="text-xs font-semibold opacity-60">
-                          PHP && Javascript
+                          React && Vite && Tailwindcss + DaisyUI && Supabase &&
+                          Netlify
                         </div>
                       </div>
                       <a
                         target="_blank"
-                        href="http://siaporabain.live/"
+                        href="https://siaporabain.rsudhmrabain.com/"
                         className="btn btn-square btn-ghost"
                       >
                         <svg
