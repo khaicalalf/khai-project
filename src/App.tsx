@@ -7,6 +7,7 @@ import siapo from "./assets/works/siaporabain.png";
 import ngekost from "./assets/works/ngekost.png";
 import limagirary from "./assets/works/logo.png";
 import vaksin from "./assets/works/vaksin.jpg";
+import Footer from "./Components/footer";
 
 function App() {
   return (
@@ -438,6 +439,7 @@ function App() {
             </div>
           </div>
           <AnimationBg />
+          <Footer />
         </div>
       </div>
     </>
